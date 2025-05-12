@@ -10,7 +10,8 @@ A secure voice authentication system that controls door access using speaker ver
 - Authorized speaker management
 - Audio transcription capability
 - Integration with Arduino for physical door control
-
+- Using LibriSpeech for testing on a large scale
+- Using google speech to text api from python
 ## Requirements
 
 - Python 3.x
